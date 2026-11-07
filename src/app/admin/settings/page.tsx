@@ -56,8 +56,8 @@ const INITIAL_SETTINGS: SiteSettings = {
     company_name: "PT Pelican Mitra Sejati",
     tagline: "Marine Engineering Solutions, Vessel Automation, and Industrial Power Systems",
     email: "info@pelican-ms.com",
-    phone: "+62 811 7019 338",
-    whatsapp: "628117019338",
+    phone: "+62 877 8780 6333",
+    whatsapp: "6287787806333",
     address:
       "Komplek Pertokoan Cipta Puri Blok CC No. 15, Tiban Baru, Sekupang, Kota Batam, Kepulauan Riau 29426",
     operating_hours: "Monday to Saturday 08:00 to 17:00 WIB, 24/7 emergency support",
@@ -432,7 +432,7 @@ export default function AdminSettingsPage() {
                 <FieldLabel htmlFor="contact_whatsapp">WhatsApp Hotline Number</FieldLabel>
                 <Input
                   id="contact_whatsapp"
-                  placeholder="e.g. 628117019338"
+                  placeholder="e.g. 6287787806333"
                   value={form.general.whatsapp}
                   onChange={(e) =>
                     setForm((prev) => ({

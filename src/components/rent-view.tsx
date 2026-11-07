@@ -560,8 +560,8 @@ export function RentView() {
               </AccordionTrigger>
               <AccordionContent>
                 {isId
-                  ? "Silakan isi formulir kontak atau kirimkan rincian kebutuhan daya dan durasi sewa langsung ke WhatsApp resmi kami di +62 811 7789 902 untuk menerima penawaran harga resmi."
-                  : "Submit your power requirements and rental duration through our RFQ form or contact our official technical WhatsApp at +62 811 7789 902 for a prompt quote."}
+                  ? "Silakan isi formulir kontak atau kirimkan rincian kebutuhan daya dan durasi sewa langsung ke WhatsApp resmi kami di +62 877 8780 6333 untuk menerima penawaran harga resmi."
+                  : "Submit your power requirements and rental duration through our RFQ form or contact our official technical WhatsApp at +62 877 8780 6333 for a prompt quote."}
               </AccordionContent>
             </AccordionItem>
           </Accordion>

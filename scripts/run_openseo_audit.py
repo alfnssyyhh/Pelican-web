@@ -4,9 +4,10 @@ import urllib.error
 import time
 import re
 import json
+import sys
 from html.parser import HTMLParser
 
-BASE_URL = "http://localhost:3000"
+BASE_URL = sys.argv[1].rstrip("/") if len(sys.argv) > 1 else "http://localhost:3000"
 
 # OpenSEO Audit Thresholds (extracted 1:1 from open-seo/src/server/lib/audit/issues/page-reporters.ts)
 TITLE_MAX_CHARS = 60

@@ -29,7 +29,7 @@ export async function GET() {
     const phone =
       (matched as any)?.phone ||
       settings.general?.phone ||
-      "+62 811-7019-338";
+      "+62 877-8780-6333";
     const role =
       matched?.role || (session.role === "admin" ? "Super Admin" : "Operations Officer");
     const department =
@@ -43,7 +43,7 @@ export async function GET() {
     const emergency_contact_name =
       (matched as any)?.emergency_contact_name || "Pelican Operational Command Center";
     const emergency_contact_phone =
-      (matched as any)?.emergency_contact_phone || "+62 811-7019-338";
+      (matched as any)?.emergency_contact_phone || "+62 877-8780-6333";
 
     const initials =
       displayName

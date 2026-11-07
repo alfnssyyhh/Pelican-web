@@ -208,8 +208,8 @@ const DEFAULT_SETTINGS: SiteSettings = {
     company_name: "PT Pelican Mitra Sejati",
     tagline: "Solusi Rekayasa Maritim, Otomasi Kapal, dan Sistem Daya Industri",
     email: "info@pelican-ms.com",
-    phone: "+62 811 7019 338",
-    whatsapp: "628117019338",
+    phone: "+62 877 8780 6333",
+    whatsapp: "6287787806333",
     address:
       "Komplek Pertokoan Cipta Puri Blok CC No. 15, Tiban Baru, Sekupang, Kota Batam, Kepulauan Riau 29426",
     operating_hours:

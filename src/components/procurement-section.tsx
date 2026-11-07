@@ -36,7 +36,7 @@ export function ProcurementSection() {
             className="bg-pelican-red hover:bg-pelican-red-hover text-white text-xs font-semibold h-11 px-6 shadow-xs"
           >
             <a
-              href="https://wa.me/628117789902?text=Hello%20Pelican%20Supply%20Division,%20I%20would%20like%20to%20request%20an%20RFQ%20for%20genuine%20marine%20spare%20parts."
+              href="https://wa.me/6287787806333?text=Hello%20Pelican%20Supply%20Division,%20I%20would%20like%20to%20request%20an%20RFQ%20for%20genuine%20marine%20spare%20parts."
               target="_blank"
               rel="noopener noreferrer"
             >

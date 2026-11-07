@@ -426,10 +426,10 @@ export function ContactView() {
                         </strong>
                         <div className="flex flex-col space-y-1 text-xs text-slate-600 font-normal pt-0.5">
                           <a
-                            href="tel:+627787372079"
+                            href="tel:+6287787806333"
                             className="text-slate-700 hover:text-pelican-red hover:underline transition-colors block leading-tight"
                           >
-                            (0778) 7372079
+                            +62 877-8780-6333
                           </a>
                           <a
                             href="https://wa.me/6287787806333"
@@ -437,7 +437,7 @@ export function ContactView() {
                             rel="noopener noreferrer"
                             className="text-slate-700 hover:text-pelican-red hover:underline transition-colors block leading-tight"
                           >
-                            +62 877-8780-6333
+                            WhatsApp: +62 877-8780-6333
                           </a>
                         </div>
                       </div>

@@ -23,7 +23,7 @@ export default function AdminProfilePage() {
     display_name: "Principal Administrator",
     username: "admin",
     email: "admin@pelican-ms.com",
-    phone: "+62 811-7019-338",
+    phone: "+62 877-8780-6333",
     role: "Super Admin",
   });
 
@@ -35,7 +35,7 @@ export default function AdminProfilePage() {
     location: "Tiban Baru, Sekupang, Batam",
     hire_date: "2021-03-15",
     emergency_contact_name: "Pelican Operational Command Center",
-    emergency_contact_phone: "+62 811-7019-338",
+    emergency_contact_phone: "+62 877-8780-6333",
   });
 
   const [passwordForm, setPasswordForm] = React.useState({
@@ -66,7 +66,7 @@ export default function AdminProfilePage() {
           location: data.location || "Tiban Baru, Sekupang, Batam",
           hire_date: data.hire_date || "2021-03-15",
           emergency_contact_name: data.emergency_contact_name || "Pelican Operational Command Center",
-          emergency_contact_phone: data.emergency_contact_phone || "+62 811-7019-338",
+          emergency_contact_phone: data.emergency_contact_phone || "+62 877-8780-6333",
         });
       })
       .catch(() => {})

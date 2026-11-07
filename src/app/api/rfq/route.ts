@@ -112,7 +112,7 @@ export async function POST(request: Request) {
       `_Ref: ${newRfq.id}_`,
     ].join("\n");
 
-    const waUrl = `https://wa.me/628117019338?text=${encodeURIComponent(waText)}`;
+    const waUrl = `https://wa.me/6287787806333?text=${encodeURIComponent(waText)}`;
 
     return NextResponse.json({
       success: true,

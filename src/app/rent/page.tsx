@@ -100,7 +100,7 @@ export default function RentPage() {
         name: "Bagaimana cara mengajukan permintaan penawaran harga resmi (RFQ) sewa genset?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Anda dapat mengirimkan spesifikasi daya, durasi pemakaian, dan lokasi proyek melalui formulir RFQ di website atau menghubungi WhatsApp teknis kami di +62 811 7789 902 untuk respon penawaran cepat.",
+          text: "Anda dapat mengirimkan spesifikasi daya, durasi pemakaian, dan lokasi proyek melalui formulir RFQ di website atau menghubungi WhatsApp teknis kami di +62 877 8780 6333 untuk respon penawaran cepat.",
         },
       },
     ],

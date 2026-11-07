@@ -235,7 +235,7 @@ export function RfqForm() {
         </Button>
 
         <p className="text-[11px] text-slate-400 text-center font-normal pt-1">
-          Submission data is encrypted, logged to database, and instantly forwarded to Batam Duty Engineer (+62 811-7019-338).
+          Submission data is encrypted, logged to database, and instantly forwarded to Batam Duty Engineer (+62 877-8780-6333).
         </p>
       </form>
     </div>

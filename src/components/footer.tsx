@@ -114,15 +114,15 @@ export function Footer() {
             <div className="space-y-3 text-xs text-zinc-200">
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-pelican-red shrink-0" />
-                <a href="tel:+627787372079" className="hover:text-white font-normal text-zinc-200 transition-colors">
-                  (0778) 7372079
+                <a href="tel:+6287787806333" className="hover:text-white font-normal text-zinc-200 transition-colors">
+                  +62 877-8780-6333
                 </a>
               </div>
 
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-pelican-red shrink-0" />
-                <a href="https://wa.me/628117019338" target="_blank" rel="noopener noreferrer" className="hover:text-white font-normal text-zinc-200 transition-colors">
-                  +62 811-7019-338
+                <a href="https://wa.me/6287787806333" target="_blank" rel="noopener noreferrer" className="hover:text-white font-normal text-zinc-200 transition-colors">
+                  WhatsApp: +62 877-8780-6333
                 </a>
               </div>
 

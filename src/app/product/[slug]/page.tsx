@@ -112,7 +112,7 @@ export default async function ProductDetailPage({ params }: Props) {
   const waMessage = `Halo PT Pelican Mitra Sejati, saya ingin meminta penawaran harga resmi (RFQ) untuk:\nProduk: ${
     product.name
   }${product.sku ? `\nSKU: ${product.sku}` : ""}\nMohon informasi harga dan ketersediaan stok di Batam. Terima kasih.`;
-  const waUrl = `https://wa.me/628117789902?text=${encodeURIComponent(waMessage)}`;
+  const waUrl = `https://wa.me/6287787806333?text=${encodeURIComponent(waMessage)}`;
 
   const brandName = product.categories.includes("Cummins")
     ? "Cummins"
