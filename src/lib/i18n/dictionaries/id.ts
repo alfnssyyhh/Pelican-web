@@ -1,0 +1,63 @@
+import { Dictionary } from "../types";
+
+export const id: Dictionary = {
+  nav: {
+    home: "Beranda",
+    services: "Layanan",
+    rents: "Rental",
+    products: "Produk",
+    works: "Proyek Pilihan",
+    insights: "Wawasan Teknis",
+    contact: "Hubungi kami",
+  },
+  footer: {
+    tagline:
+      "PT Pelican Mitra Sejati adalah penyedia solusi rekayasa teknik terkemuka yang berspesialisasi dalam sistem kelistrikan kapal, otomasi maritim, kalibrasi presisi, overhoul mesin diesel, dan rental genset industri di seluruh Batam dan wilayah perairan lepas pantai sekitarnya.",
+    address_title: "Kantor & bengkel kerja Batam:",
+    address_body: "Komplek Taman Niaga Sukajadi Blok M No. 3A-6, Sukajadi, Batam, Kepulauan Riau 29432",
+    col_divisions: "Divisi rekayasa teknik",
+    div_marine_auto: "Kelistrikan & otomasi maritim",
+    div_odme_ows: "Layanan kalibrasi ODME & OWS",
+    div_diesel_overhaul: "Overhoul & kontrol mesin diesel",
+    div_hydraulic: "Sistem hidrolik & perpipaan",
+    div_comm_nav: "Komunikasi & navigasi (radio survey)",
+    div_power_rental: "Rental genset industri & maritim (25 sampai 1250 kVA)",
+    col_navigation: "Navigasi",
+    all_services: "Semua layanan",
+    generator_rental: "Rental genset",
+    parts_catalog: "Katalog suku cadang",
+    technical_insights: "Wawasan teknis",
+    contact_rfq: "Kontak & penawaran",
+    col_hotline: "Kontak langsung & hotline",
+    office_call_center: "Pusat panggilan kantor:",
+    marine_hotline: "Hotline layanan maritim kantor:",
+    commercial_email: "Email komersial & operasional:",
+    operational_hours: "Jam operasional:",
+    hours_detail: "Senin sampai Jumat: 08:00 sampai 17:00 WIB",
+    emergency_standby: "Dukungan operasional penuh",
+    copyright: "Hak Cipta © 2026 PT Pelican Mitra Sejati. Seluruh hak dilindungi.",
+    certified_tag: "Layanan rekayasa maritim & lepas pantai tersertifikasi di Batam",
+  },
+  common: {
+    read_article: "Baca artikel teknis",
+    back_to_insights: "Kembali ke wawasan teknis",
+    related_articles: "Artikel teknis terkait",
+    related_topics: "Topik terkait:",
+    rfq_title: "Butuh dukungan teknis untuk layanan ini?",
+    rfq_desc:
+      "Tim insinyur lapangan tersertifikasi kami siap untuk inspeksi kapal, konsultasi galangan, dan troubleshooting fasilitas lepas pantai di seluruh Batam.",
+    request_rfq: "Minta penawaran resmi (RFQ)",
+    whatsapp_team: "WhatsApp tim teknis",
+    rapid_mobilization: "Mobilisasi teknis cepat",
+    technical_doc: "Dokumentasi teknis",
+    back_to_home: "Kembali ke beranda",
+    inquire_services: "Konsultasi layanan teknik",
+    all: "Semua",
+  },
+  insights: {
+    eyebrow: "Pusat pengetahuan teknik maritim",
+    title: "Wawasan teknis & studi kasus lapangan",
+    description:
+      "Panduan rekayasa mendalam, prosedur penanganan gangguan otomasi kapal, protokol kepatuhan lingkungan MARPOL, dan studi kasus overhoul mesin diesel oleh teknisi Pelican di Batam.",
+  },
+};

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 201,
+    "slug": "bourbon-offshore-asia",
+    "client": "Bourbon Offshore Asia",
+    "vessel": "Anchor Handling Tug Supply (AHTS) Vessel",
+    "location": "Batam Shipyard & Anchorage Waters",
+    "year": "2026",
+    "category": "Marine Engine Overhaul & Electrical",
+    "status": "publish",
+    "banner": "/projects/bourbon-vessel.jpg",
+    "scope": "Comprehensive overhaul and electrical activation for high-tonnage auxiliary power generation on board deep-water anchor handling tugs.",
+    "milestones": [
+      "Major overhaul of heavy diesel generator Cummins QSK60",
+      "Diesel generator automation system activation and load distribution tuning",
+      "Emergency Diesel Generator (EDG) Cummins 6CT system complete overhaul & harbor sea trial"
+    ]
+  },
+  {
+    "id": 202,
+    "slug": "bakamla-ri",
+    "client": "Bakamla RI",
+    "vessel": "Patrol Vessel KN Pulau Dana 323",
+    "location": "Batam Maritime Naval Base",
+    "year": "2026",
+    "category": "Propulsion & Automation Control",
+    "status": "publish",
+    "banner": "/projects/bakamla-vessel.jpg",
+    "scope": "Drive transmission installation and automation control commissioning for national maritime patrol readiness.",
+    "milestones": [
+      "Precision marine gearbox installation and laser alignment to MAN diesel engine",
+      "Complete electrical, instrumentation, and functional survey installation",
+      "Tuning, calibration, and commissioning of Viking 35 propulsion control system"
+    ]
+  },
+  {
+    "id": 203,
+    "slug": "multipanel-intermitra",
+    "client": "PT Multipanel Intermitra Mandiri",
+    "vessel": "Industrial Manufacturing Facility",
+    "location": "Kabil Industrial Estate, Batam",
+    "year": "2025",
+    "category": "Industrial Power Systems",
+    "status": "publish",
+    "banner": "/uploads/panels/industrial-control-panel-assembly.jpg",
+    "scope": "Installation of main power distribution panel and generator synchronizing systems for plant electrical reliability.",
+    "milestones": [
+      "Assembly and commissioning of low-voltage distribution control panels",
+      "Integration of SmartGen auto-control modules and overcurrent protection",
+      "Full-load testing and field technical operator training"
+    ]
+  },
+  {
+    "id": 204,
+    "slug": "xintian-marine-service",
+    "client": "Xintian Marine Operations",
+    "vessel": "Bulk Carrier Cargo Fleet",
+    "location": "Batu Ampar Port Anchorage, Batam",
+    "year": "2025",
+    "category": "Mechanical Inspection & NDT",
+    "status": "publish",
+    "banner": "/projects/xintian-crack-test.jpg",
+    "scope": "Non-destructive crack testing, precision machining of main engine components, and cylinder head reconditioning.",
+    "milestones": [
+      "Metal surface crack inspection and metallurgical assessment of engine components",
+      "Valve seat reconditioning and fuel injector calibration",
+      "Exhaust gas temperature and cylinder compression pressure verification"
+    ]
+  }
+]

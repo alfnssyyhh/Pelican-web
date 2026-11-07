@@ -1,0 +1,63 @@
+import { Dictionary } from "../types";
+
+export const en: Dictionary = {
+  nav: {
+    home: "Home",
+    services: "Services",
+    rents: "Rents",
+    products: "Products",
+    works: "Featured Works",
+    insights: "Technical Insights",
+    contact: "Contact us",
+  },
+  footer: {
+    tagline:
+      "PT Pelican Mitra Sejati is a premier engineering solutions provider specializing in marine electrical systems, vessel automation, precision calibration, diesel engine overhauls, and industrial power generation across Batam and regional offshore waters.",
+    address_title: "Batam workshop & headquarters:",
+    address_body: "Komplek Taman Niaga Sukajadi Blok M No. 3A-6, Sukajadi, Batam, Riau Islands 29432",
+    col_divisions: "Engineering divisions",
+    div_marine_auto: "Electrical & marine automation",
+    div_odme_ows: "ODME & OWS calibration service",
+    div_diesel_overhaul: "Diesel engine overhaul & control",
+    div_hydraulic: "Hydraulic & piping systems",
+    div_comm_nav: "Communication & navigation (radio survey)",
+    div_power_rental: "Industrial & marine power rental (25 to 1250 kVA)",
+    col_navigation: "Navigation",
+    all_services: "All services",
+    generator_rental: "Generator rental",
+    parts_catalog: "Spare parts catalog",
+    technical_insights: "Technical insights",
+    contact_rfq: "Contact & RFQ",
+    col_hotline: "Direct contact & hotline",
+    office_call_center: "Office call center:",
+    marine_hotline: "Marine dispatch hotline:",
+    commercial_email: "Commercial & operations email:",
+    operational_hours: "Operational hours:",
+    hours_detail: "Monday to Friday: 08:00 to 17:00 WIB",
+    emergency_standby: "Full operational marine standby",
+    copyright: "Copyright © 2026 PT Pelican Mitra Sejati. All rights reserved.",
+    certified_tag: "Certified marine & offshore engineering services in Batam",
+  },
+  common: {
+    read_article: "Read technical article",
+    back_to_insights: "Back to technical insights",
+    related_articles: "Related technical articles",
+    related_topics: "Related topics:",
+    rfq_title: "Need engineering support for this service?",
+    rfq_desc:
+      "Our certified field engineers are on standby for vessel boarding, shipyard consultation, and offshore facility troubleshooting across Batam.",
+    request_rfq: "Request an official quote (RFQ)",
+    whatsapp_team: "WhatsApp engineering team",
+    rapid_mobilization: "Rapid technical mobilization",
+    technical_doc: "Technical documentation",
+    back_to_home: "Back to homepage",
+    inquire_services: "Inquire technical services",
+    all: "All",
+  },
+  insights: {
+    eyebrow: "Maritime engineering knowledge base",
+    title: "Technical insights & maritime case studies",
+    description:
+      "In-depth engineering walkthroughs, vessel automation troubleshooting procedures, MARPOL environmental compliance protocols, and diesel engine overhaul case studies documented by Pelican engineers.",
+  },
+};

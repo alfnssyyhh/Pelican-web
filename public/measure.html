@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body>
+<div id="container"></div>
+<script>
+const files = [
+  "abb.svg", "allen-bradley.svg", "bosch.svg", "cat.svg", "cummins.svg",
+  "danfoss.svg", "delphi.svg", "denso.svg", "holset.svg", "honeywell.svg",
+  "komatsu.svg", "man.svg", "mitsubishi.svg", "mitsubishi-electric.svg",
+  "mtu-detroit.svg", "omron.svg", "parker.svg", "rexroth.svg", "schneider.svg",
+  "siemens.svg", "smc.svg", "stanadyne.svg", "vdo.svg", "yanmar.svg"
+];
+
+async function run() {
+  const results = {};
+  const container = document.getElementById('container');
+  
+  for (const f of files) {
+    try {
+      const res = await fetch('http://localhost:3000/brands/' + f);
+      const text = await res.text();
+      container.innerHTML = text;
+      const svg = container.querySelector('svg');
+      if (!svg) {
+        results[f] = { error: 'No SVG element found' };
+        continue;
+      }
+      // Get natural or existing viewBox
+      const existingViewBox = svg.getAttribute('viewBox');
+      const bbox = svg.getBBox();
+      results[f] = {
+        bbox: {
+          x: Math.round(bbox.x * 100) / 100,
+          y: Math.round(bbox.y * 100) / 100,
+          width: Math.round(bbox.width * 100) / 100,
+          height: Math.round(bbox.height * 100) / 100
+        },
+        aspectRatio: Math.round((bbox.width / (bbox.height || 1)) * 100) / 100,
+        existingViewBox
+      };
+    } catch (err) {
+      results[f] = { error: err.message };
+    }
+  }
+  
+  const pre = document.createElement('pre');
+  pre.id = 'results';
+  pre.textContent = JSON.stringify(results, null, 2);
+  document.body.appendChild(pre);
+  window.__DONE__ = true;
+}
+
+window.onload = run;
+</script>
+</body>
+</html>

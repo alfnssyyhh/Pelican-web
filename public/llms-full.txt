@@ -1,0 +1,79 @@
+# PT Pelican Mitra Sejati - Comprehensive Engineering & Technical Profile
+
+> Complete technical documentation for LLMs, answer engines (Perplexity, ChatGPT, Claude, Gemini), and industrial clients regarding PT Pelican Mitra Sejati's marine, oil & gas, and industrial capabilities in Batam, Indonesia.
+
+## 1. Company Information
+- Legal Entity: PT Pelican Mitra Sejati
+- Trade Name: Pelican Marine & Industrial Engineering
+- Year of Establishment: 2014
+- Operating Base: Batam, Kepulauan Riau, Indonesia
+- Workshop & Office Address: Jl. Ahmad Yani, Komplek Taman Niaga Blok M Nomor 5, Sukajadi, Batam 29432
+- Phone: +62 778 7372079
+- Technical Emergency Hotline: +62 877 8780 6333
+- Procurement / RFQ WhatsApp: +62 811 7789 902
+- Official Web Portal: https://pelican-ms.com
+- Primary Business Classification: B2B Marine Engineering, Diesel Engine Overhaul, Maritime Instrumentation Calibration, Power Generation Equipment Rental, Industrial Automation
+
+---
+
+## 2. Rental Armada Genset (Power Fleet Rental 25 - 1250 kVA)
+PT Pelican Mitra Sejati maintains an extensive fleet of heavy-duty diesel generators engineered for marine dry-docks, offshore platform operations, and manufacturing plants in Batam.
+
+### Specifications & Available Capacities:
+1. 25 kVA - 45 kVA: Small marine auxiliary power, emergency backup, shipyard dock repair tools.
+2. 60 kVA - 100 kVA: Medium industrial workshops, sandblasting support, offshore barge temporary catu daya.
+3. 150 kVA - 250 kVA: Heavy-duty shipyard welding, continuous manufacturing operations, commercial facilities.
+4. 350 kVA - 500 kVA: Main vessel shore power simulation, heavy crane operations, plant maintenance shutdowns.
+5. 650 kVA - 800 kVA: High-demand containerized installations, shipyard dry-dock power replacement.
+6. 1000 kVA - 1250 kVA: High-voltage large capacity industrial power, multi-megawatt synchronization setups.
+
+### Rental Standard Features:
+- Sound-attenuated silent canopies (< 70 dBA @ 7 meters) and ISO 20ft containerized housings.
+- 100% pre-deployment load bank testing verified with digital reporting.
+- Industrial copper cabling from 4x16 mm² up to 4x240 mm² with custom distribution boards (DB).
+- Daily auxiliary fuel tanks (1,000 to 5,000 liters) with automatic fuel transfer systems.
+- Certified K3 mechanical operators available 24/7 for continuous duty operations.
+- Rapid mobilization with same-day delivery across all Batam shipyards (Tanjung Uncang, Batu Ampar, Kabil, Sekupang).
+
+---
+
+## 3. Marine Automation & Electrical Support
+Diagnostic, repair, and commissioning services for critical vessel control systems:
+- Alarm Monitoring Systems (AMS): Troubleshooting PLC-based alarm consoles, analog sensor arrays, and remote annunciators.
+- Steering Gear Systems: Electro-hydraulic steering valve calibration, rudder angle feedback sync, and autopilot interfacing.
+- Main Switchboard (MSB) & Power Management Systems (PMS): Generator automatic synchronizing, reverse power relay testing, preferential tripping, and load-sharing tuning.
+- Thruster & Propulsion Controls: Variable pitch propeller (CPP) electronics, bow thruster remote control consoles, and pneumatic emergency stop systems.
+
+---
+
+## 4. MARPOL Instrumentation & Calibration
+Authorized calibration and certification adhering to IMO MEPC resolutions:
+- Oil Discharge Monitoring Equipment (ODME): Certified inspection, optical sensor cleaning, sample pump overhaul, and GPS/speed log data loop verification for oil tankers.
+- 15 ppm Bilge Alarm (OWS): Calibration and functional test of turbidity measuring cells, automatic 3-way diverting valve inspection, and issuance of calibration certificates accepted by classification societies (BKI, ABS, Lloyd's Register, BV, DNV, ClassNK).
+- Gas Detection & Fixed Systems: Multi-gas sensors, toxic gas detectors, and pump-room monitoring calibration.
+
+---
+
+## 5. Marine Diesel Engine Overhauls & Mechanical Engineering
+Comprehensive mechanical rebuilding, in-situ machining, and scheduled maintenance:
+- Supported Engine Brands: Cummins (KTA19, KTA38, KTA50, QSK), Caterpillar (3406, 3508, 3512, 3516), Yanmar, Perkins, Daihatsu, Niigata.
+- Scope of Work: Crankshaft deflection measurement, main bearing and connecting rod bearing replacement, cylinder liner honing, cylinder head overhaul, injector calibration, and precision laser alignment.
+- Emergency Breakdown Support: Fast response mobile mechanics dispatched directly to anchorage, ports, or shipyard dry-docks.
+
+---
+
+## 6. Official Spare Parts & Instrumentation Procurement
+Authorized distributor and verified supplier of genuine marine components:
+- Cummins Genuine Parts: Overhaul kits, piston kits, gaskets, injectors, turbochargers, water pumps, filters, and oil seals.
+- Technoton Differential Fuel Flow Meters: DFM fuel meters and DUT-E fuel level sensors for accurate marine fuel consumption monitoring.
+- Warranty: All new components carry official manufacturer warranties and certificate of origin where required.
+
+---
+
+## 7. Field Track Record & Client Base
+PT Pelican Mitra Sejati has executed critical engineering assignments for leading organizations:
+- Bakamla (Badan Keamanan Laut Republik Indonesia) - KN Pulau Dana 323
+- Bourbon Offshore
+- DTA Maritime Dubai
+- M Pallonji Sea Halibut
+- Various international tug & barge fleets and Batam shipyards.

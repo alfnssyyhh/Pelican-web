@@ -1,0 +1,38 @@
+[
+  {
+    "id": "RFQ-20261101",
+    "createdAt": "2026-11-01T09:15:00.000Z",
+    "name": "Hendra Wijaya",
+    "company": "PT Samudera Marine Shipyard",
+    "vesselOrProject": "MV Meratus Batam",
+    "phone": "+62 812 7788 9900",
+    "category": "Cummins Marine Diesel Engine Overhaul",
+    "scope": "Comprehensive inspection and fuel pump spare parts replacement request for auxiliary generator Cummins KTA19 at Tanjung Uncang shipyard.",
+    "status": "New",
+    "notes": "Awaiting technical survey schedule onboard vessel."
+  },
+  {
+    "id": "RFQ-20261028",
+    "createdAt": "2026-10-28T14:30:00.000Z",
+    "name": "Capt. Ronald Tan",
+    "company": "Pacific Offshore Fleet Singapore",
+    "vesselOrProject": "AHTS Pacific Endeavour",
+    "phone": "+65 9123 4567",
+    "category": "Automation & Navigation Sensor Calibration",
+    "scope": "Technoton DFM fuel sensor calibration and engine room alarm monitoring panel verification prior to sea trials.",
+    "status": "In Progress",
+    "notes": "Field engineer team dispatched for onboard inspection this Thursday."
+  },
+  {
+    "id": "RFQ-20261020",
+    "createdAt": "2026-10-20T11:05:00.000Z",
+    "name": "Budi Santoso",
+    "company": "PT Citra Tubindo Engineering",
+    "vesselOrProject": "Kabil Fabrication Facility",
+    "phone": "+62 811 7001 234",
+    "category": "Industrial Generator Rental",
+    "scope": "Rental of 2 units 500 kVA silent diesel generators with synchronization panels for offshore module load test over 30 days.",
+    "status": "Completed",
+    "notes": "Official quote approved and fleet units mobilized to job site."
+  }
+]

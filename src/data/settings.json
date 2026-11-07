@@ -1,0 +1,76 @@
+{
+  "general": {
+    "company_name": "PT Pelican Mitra Sejati",
+    "tagline": "Solusi Rekayasa Maritim, Otomasi Kapal, dan Sistem Daya Industri",
+    "email": "info@pelican-ms.com",
+    "phone": "+62 811 7019 338",
+    "whatsapp": "628117019338",
+    "address": "Komplek Pertokoan Cipta Puri Blok CC No. 15, Tiban Baru, Sekupang, Kota Batam, Kepulauan Riau 29426",
+    "operating_hours": "Senin sampai Sabtu pukul 08.00 sampai 17.00 WIB, dukungan darurat 24 jam",
+    "default_locale": "id"
+  },
+  "seo": {
+    "meta_title": "PT Pelican Mitra Sejati | Rekayasa Maritim dan Suku Cadang Kapal Batam",
+    "meta_description": "Mitra resmi rekayasa maritim, overhaul mesin diesel kapal Cummins dan MAN, otomasi kelistrikan, kalibrasi sensor Technoton, serta sewa genset industri di Batam.",
+    "canonical_domain": "https://pelican-ms.com",
+    "og_image": "/og-image.png",
+    "robots_index": true,
+    "sitemap_enabled": true,
+    "llms_txt_enabled": true,
+    "google_verification": "pelican-ms-verified-search-console"
+  },
+  "users": [
+    {
+      "id": 5,
+      "username": "test",
+      "display_name": "User Test",
+      "email": "test@pelican-ms.com",
+      "role": "Operations Officer",
+      "department": "Operations Management",
+      "status": "Active",
+      "last_active": "Just now",
+      "password_hash": "1de0c188562f9c266c6b0a5dda7160c1674f1102b64b17cb3b4822dec345778d481a1b21400e976885bdd8705033ec7db47d5299a9295d50c0d64bd79e98afb0",
+      "salt": "cc1380da81459df015925e7eb50cdc95"
+    },
+    {
+      "id": 4,
+      "username": "lvghaa",
+      "display_name": "Galang",
+      "email": "galang@pelican-ms.com",
+      "role": "Operations Officer",
+      "department": "Operations Management",
+      "status": "Active",
+      "last_active": "Just now"
+    },
+    {
+      "id": 1,
+      "username": "admin",
+      "display_name": "Principal Administrator",
+      "email": "admin@pelican-ms.com",
+      "role": "Super Admin",
+      "department": "Operations Management",
+      "status": "Active",
+      "last_active": "Today"
+    },
+    {
+      "id": 2,
+      "username": "engineering.lead",
+      "display_name": "Lead Technical Engineer",
+      "email": "engineering@pelican-ms.com",
+      "role": "Technical Editor",
+      "department": "Marine Engineering",
+      "status": "Active",
+      "last_active": "Yesterday"
+    },
+    {
+      "id": 3,
+      "username": "fleet.logistics",
+      "display_name": "Fleet & Parts Coordinator",
+      "email": "parts@pelican-ms.com",
+      "role": "Catalog Manager",
+      "department": "Inventory & Fleet",
+      "status": "Active",
+      "last_active": "3 days ago"
+    }
+  ]
+}

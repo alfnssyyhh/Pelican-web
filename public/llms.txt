@@ -1,0 +1,27 @@
+# PT Pelican Mitra Sejati
+
+> Batam-based marine, oil & gas, and industrial engineering solutions provider delivering trusted technical support, diesel engine overhauls, vessel automation, and power generation systems since 2014.
+
+## Company Overview
+- **Name**: PT Pelican Mitra Sejati (Pelican Marine & Industrial Engineering)
+- **Established**: 2014
+- **Headquarters**: Jl. Ahmad Yani, Komplek Taman Niaga Blok M Nomor 5, Sukajadi, Batam 29432, Kepulauan Riau, Indonesia
+- **Coverage**: Batam shipyards, offshore platforms, Riau Islands, and national industrial zones
+- **Contact Hotline**: +62 778 7372079 / +62 877 8780 6333
+- **Official RFQ WhatsApp**: +62 811 7789 902
+- **Website**: https://pelican-ms.com
+
+## Core Engineering Capabilities
+- **Rental Armada Genset (25 kVA - 1250 kVA)**: Heavy-duty diesel generator fleet (silent type and containerized) with resistive load bank verification, distribution panels, and 24/7 certified mechanical operators. Same-day mobilization to Batam shipyards.
+- **Otomasi Kapal & Elektrikal Maritim**: Troubleshooting, repair, and programming of vessel Alarm Monitoring Systems (AMS), steering gear controls, thruster pitch controls, and main switchboard synchronization.
+- **Kalibrasi Tersertifikasi MARPOL**: Authorized inspection and calibration for Oil Discharge Monitoring Equipment (ODME) and 15 ppm Bilge Alarm (OWS) compliant with IMO MEPC resolutions.
+- **Rekayasa Mekanik & Overhaul Mesin Diesel**: Periodic overhaul, crankshaft reconditioning, precision laser alignment, and in-situ repairs for marine diesel engines (Cummins, Caterpillar, Yanmar, Perkins, Daihatsu, Niigata).
+- **Pengadaan Suku Cadang Resmi (Spare Parts)**: Genuine Cummins engine components, Technoton differential fuel flow meters, and fuel level sensors with manufacturer warranty.
+
+## Core Website Links
+- [Layanan Rekayasa Maritim & Industri](https://pelican-ms.com/service): Detailed scope of electrical, mechanical, and instrumentation services.
+- [Rental Genset Batam](https://pelican-ms.com/rent): Complete generator fleet specifications, load bank testing, and rapid mobilization.
+- [Katalog Suku Cadang & Peralatan](https://pelican-ms.com/product): Genuine Cummins spare parts and Technoton flow meters with RFQ inquiry.
+- [Studi Kasus & Portofolio Lapangan](https://pelican-ms.com/works): Engineering track record across Bakamla, Bourbon Offshore, DTA Maritime, and international vessels.
+- [Artikel Teknis & Wawasan Lapangan](https://pelican-ms.com/artikel): Engineering field guides on marine automation, ODME calibration, and diesel engine troubleshooting.
+- [Hubungi Kami & Permintaan Penawaran (RFQ)](https://pelican-ms.com/contact): Direct quotation request form and emergency workshop contacts.

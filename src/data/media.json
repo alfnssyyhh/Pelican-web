@@ -1,0 +1,134 @@
+[
+  {
+    "id": 301,
+    "title": "Official Logo of PT Pelican Mitra Sejati",
+    "filename": "Pelican-Mitra-Sejati-logo-HD-transparent.png",
+    "url": "/logo/Pelican-Mitra-Sejati-logo-HD-transparent.png",
+    "category": "Brand Identity",
+    "mime_type": "image/png",
+    "size_kb": 42,
+    "alt_text": "Official logo of PT Pelican Mitra Sejati Batam",
+    "uploaded_at": "2026-08-15"
+  },
+  {
+    "id": 302,
+    "title": "Fuel Level Sensor DUT-E Technoton",
+    "filename": "product-img.png",
+    "url": "/uploads/2025/11/product-img.png",
+    "category": "Spare Parts",
+    "mime_type": "image/png",
+    "size_kb": 128,
+    "alt_text": "Fuel level sensor DUT-E Technoton",
+    "uploaded_at": "2025-11-20"
+  },
+  {
+    "id": 303,
+    "title": "Differential Flow Meter DFM Technoton",
+    "filename": "product-img-1.png",
+    "url": "/uploads/2025/11/product-img-1.png",
+    "category": "Spare Parts",
+    "mime_type": "image/png",
+    "size_kb": 145,
+    "alt_text": "Differential fuel flow meter DFM Technoton",
+    "uploaded_at": "2025-11-20"
+  },
+  {
+    "id": 304,
+    "title": "Industrial Flow Meter DFM Marine",
+    "filename": "product-img-2.png",
+    "url": "/uploads/2025/11/product-img-2.png",
+    "category": "Spare Parts",
+    "mime_type": "image/png",
+    "size_kb": 134,
+    "alt_text": "Marine industrial fuel flow meter DFM",
+    "uploaded_at": "2025-11-20"
+  },
+  {
+    "id": 305,
+    "title": "Containerized Silent Generator",
+    "filename": "genset1.jpg",
+    "url": "/uploads/2026/01/genset1.jpg",
+    "category": "Generator Fleet",
+    "mime_type": "image/jpeg",
+    "size_kb": 280,
+    "alt_text": "Containerized silent rental generator unit PT Pelican Mitra Sejati",
+    "uploaded_at": "2026-01-12"
+  },
+  {
+    "id": 306,
+    "title": "Open Industrial Generator 1000 kVA",
+    "filename": "genset2.jpg",
+    "url": "/uploads/2026/01/genset2.jpg",
+    "category": "Generator Fleet",
+    "mime_type": "image/jpeg",
+    "size_kb": 310,
+    "alt_text": "Open industrial generator unit 1000 kVA capacity",
+    "uploaded_at": "2026-01-12"
+  },
+  {
+    "id": 307,
+    "title": "Emergency Yanmar Diesel Generator",
+    "filename": "genset3.jpg",
+    "url": "/uploads/2026/01/genset3.jpg",
+    "category": "Generator Fleet",
+    "mime_type": "image/jpeg",
+    "size_kb": 265,
+    "alt_text": "Yanmar diesel generator for emergency backup power",
+    "uploaded_at": "2026-01-12"
+  },
+  {
+    "id": 308,
+    "title": "Offshore Marine Generator",
+    "filename": "genset4.jpg",
+    "url": "/uploads/2026/01/genset4.jpg",
+    "category": "Generator Fleet",
+    "mime_type": "image/jpeg",
+    "size_kb": 295,
+    "alt_text": "Offshore marine diesel generator rental solution",
+    "uploaded_at": "2026-01-12"
+  },
+  {
+    "id": 309,
+    "title": "Marine Main Switchboard",
+    "filename": "marine-main-switchboard.webp",
+    "url": "/uploads/panels/marine-main-switchboard.webp",
+    "category": "Electrical Panels",
+    "mime_type": "image/webp",
+    "size_kb": 190,
+    "alt_text": "Marine main distribution switchboard panel",
+    "uploaded_at": "2026-03-04"
+  },
+  {
+    "id": 310,
+    "title": "PLC Automation Control Panel",
+    "filename": "plc-automation-control-panel.jpg",
+    "url": "/uploads/panels/plc-automation-control-panel.jpg",
+    "category": "Electrical Panels",
+    "mime_type": "image/jpeg",
+    "size_kb": 225,
+    "alt_text": "Marine and industrial PLC automation control panel",
+    "uploaded_at": "2026-03-04"
+  },
+  {
+    "id": 311,
+    "title": "AHTS Vessel Bourbon Offshore Asia",
+    "filename": "bourbon-vessel.jpg",
+    "url": "/projects/bourbon-vessel.jpg",
+    "category": "Project Documentation",
+    "mime_type": "image/jpeg",
+    "size_kb": 340,
+    "alt_text": "Generator overhaul project on AHTS Bourbon Offshore Asia",
+    "uploaded_at": "2026-02-18"
+  },
+  {
+    "id": 312,
+    "title": "Patrol Vessel KN Pulau Dana 323 Bakamla RI",
+    "filename": "bakamla-vessel.jpg",
+    "url": "/projects/bakamla-vessel.jpg",
+    "category": "Project Documentation",
+    "mime_type": "image/jpeg",
+    "size_kb": 320,
+    "alt_text": "Propulsion commissioning project on KN Pulau Dana 323 Bakamla RI",
+    "uploaded_at": "2026-02-25"
+  }
+]

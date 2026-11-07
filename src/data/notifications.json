@@ -1,0 +1,56 @@
+[
+  {
+    "id": "notif-1794001102390",
+    "title": "New RFQ Inquiry",
+    "message": "Quotation request from pelican (kyy mager) for Marine Electrical & Automation.",
+    "type": "rfq",
+    "link": "/admin/rfq",
+    "is_read": true,
+    "created_at": "2026-11-06T21:38:22.390Z"
+  },
+  {
+    "id": "notif-1",
+    "title": "New RFQ Inquiry",
+    "message": "Received quotation request from PT Samudera Marine Shipyard for Yanmar Diesel Generator.",
+    "type": "rfq",
+    "link": "/admin/rfq",
+    "is_read": true,
+    "created_at": "2026-11-03T12:54:00Z"
+  },
+  {
+    "id": "notif-2",
+    "title": "Rental Unit Deployed",
+    "message": "Unit GEN-100 mobilized to PaxOcean Shipyard Batam.",
+    "type": "rental",
+    "link": "/admin/rentals",
+    "is_read": true,
+    "created_at": "2026-11-03T11:20:00Z"
+  },
+  {
+    "id": "notif-3",
+    "title": "Technical Article Published",
+    "message": "New maritime article 'Marine Automation Systems Integration' is now published.",
+    "type": "post",
+    "link": "/admin/posts",
+    "is_read": true,
+    "created_at": "2026-11-03T09:45:00Z"
+  },
+  {
+    "id": "notif-4",
+    "title": "Low Stock Warning",
+    "message": "Fuel Level Sensor DUT-E Technoton is down to 2 units in stock.",
+    "type": "product",
+    "link": "/admin/products",
+    "is_read": true,
+    "created_at": "2026-11-02T16:30:00Z"
+  },
+  {
+    "id": "notif-5",
+    "title": "Project Work Completed",
+    "message": "Emergency steering gear overhaul on MV Meratus Batam confirmed complete.",
+    "type": "work",
+    "link": "/admin/works",
+    "is_read": true,
+    "created_at": "2026-11-01T14:15:00Z"
+  }
+]
