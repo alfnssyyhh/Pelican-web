@@ -15,7 +15,7 @@ export function getStatusVariant(status: string): StatusVariant {
   if (["publish", "published", "active", "available", "stock available", "paid", "completed", "instock", "sukses", "selesai"].includes(s)) {
     return "success";
   }
-  if (["maintenance", "under maintenance", "pending", "waiting", "in_progress", "scheduled", "baru", "draft", "proses", "contacted"].includes(s)) {
+  if (["in progress", "in_progress", "in-progress", "maintenance", "under maintenance", "pending", "waiting", "scheduled", "draft", "proses", "diproses", "contacted"].includes(s)) {
     return "warning";
   }
   if (["rented", "on rental", "overdue", "cancelled", "rusak", "rejected"].includes(s)) {
@@ -24,7 +24,7 @@ export function getStatusVariant(status: string): StatusVariant {
   if (["outofstock", "stock unavailable", "unavailable", "habis"].includes(s)) {
     return "neutral";
   }
-  if (["quote_sent", "quoted", "review"].includes(s)) {
+  if (["new", "baru", "quote_sent", "quoted", "review", "in review"].includes(s)) {
     return "info";
   }
   return "neutral";
@@ -32,6 +32,7 @@ export function getStatusVariant(status: string): StatusVariant {
 
 export function StatusBadge({ status, variant, className }: StatusBadgeProps) {
   const v = variant || getStatusVariant(status);
+  const displayStatus = (status || "").toLowerCase().trim() === "baru" ? "New" : (status || "New");
 
   const variantStyles: Record<StatusVariant, string> = {
     success:
@@ -41,7 +42,7 @@ export function StatusBadge({ status, variant, className }: StatusBadgeProps) {
     danger:
       "bg-red-50 text-red-700 border-red-200 dark:bg-red-950/40 dark:text-red-300 dark:border-red-800",
     info:
-      "bg-zinc-100 text-zinc-800 border-zinc-200 dark:bg-muted dark:text-zinc-200 dark:border-border",
+      "bg-blue-50 text-blue-700 border-blue-200 dark:bg-blue-950/40 dark:text-blue-300 dark:border-blue-800",
     neutral:
       "bg-zinc-100 text-zinc-700 border-zinc-200 dark:bg-muted dark:text-zinc-300 dark:border-border",
   };
@@ -54,7 +55,7 @@ export function StatusBadge({ status, variant, className }: StatusBadgeProps) {
         className
       )}
     >
-      {status}
+      {displayStatus}
     </span>
   );
 }

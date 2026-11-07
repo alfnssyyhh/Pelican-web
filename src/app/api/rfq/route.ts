@@ -68,7 +68,7 @@ export async function POST(request: Request) {
       phone: sanitizedPhone,
       category: sanitizedCategory,
       scope: sanitizedScope,
-      status: "Baru",
+      status: "New",
       notes: "",
     };
 

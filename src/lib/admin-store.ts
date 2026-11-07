@@ -42,7 +42,7 @@ export interface RfqInquiry {
   phone: string;
   category: string;
   scope: string;
-  status: "Baru" | "Diproses" | "Selesai" | "Diarsipkan" | string;
+  status: "New" | "In Progress" | "In Review" | "Quoted" | "Completed" | string;
   notes?: string;
 }
 

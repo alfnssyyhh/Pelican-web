@@ -97,7 +97,13 @@ export default function RfqPage() {
         if (!matchId && !matchName && !matchComp && !matchVessel) return false;
       }
       if (statusFilter !== "all") {
-        if (r.status !== statusFilter) return false;
+        const normFilter = statusFilter.toLowerCase();
+        const normStatus = (r.status || "New").toLowerCase();
+        if (normFilter === "new" && (normStatus === "new" || normStatus === "baru")) {
+          // matches
+        } else if (normStatus !== normFilter) {
+          return false;
+        }
       }
       return true;
     });
